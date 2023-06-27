@@ -1,0 +1,38 @@
+[
+    {
+        "ID": 1,
+        "image": "https://i.postimg.cc/B6HQn09G/Justice-League.jpg",
+        "title": "Justice League",
+        "price": 189.99
+    },
+    {
+        "ID": 2,
+        "image": "https://i.postimg.cc/wM5v0d0k/Batman.jpg",
+        "title": "Batman",
+        "price": 189.99
+    },
+    {
+        "ID": 3,
+        "image": "https://i.postimg.cc/QdC8W5Gm/X-Men.jpg",
+        "title": "X-Men",
+        "price": 189.99
+    },
+    {
+        "ID": 4,
+        "image": "https://i.postimg.cc/0NH32qBy/Black-Panther.jpg",
+        "title": "Black Panther",
+        "price": 189.99
+    },
+    {
+        "ID": 5,
+        "image": "https://i.postimg.cc/9X9SVKtc/Umbrella-Academy.jpg",
+        "title": "Umbrella Academy",
+        "price": 189.99
+    },
+    {
+        "ID": 6,
+        "image": "https://i.postimg.cc/Y95sYzkc/Invincible.jpg",
+        "title": "Invincible",
+        "price": 189.99
+    }
+]
